@@ -27,7 +27,3 @@ Para usar o conversor de texto em seu navegador, siga estas etapas simples:
 6. O texto convertido será exibido na área abaixo da caixa de texto.
 7. Clique no botão "Copiar Texto" para copiar o texto convertido para a área de transferência.
 8. Utilize o texto convertido conforme necessário em outros aplicativos ou documentos.
-
-### 😎Contribuindo:
-Atualmente, o projeto não aceita contribuições externas. No entanto, sinta-se à vontade para explorar o código-fonte e utilizá-lo como referência para criar suas próprias funcionalidades ou personalizar o conversor de texto de acordo com suas necessidades.
-Esperamos que você encontre utilidade neste conversor de texto simples. Se tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato conosco. Agradecemos por seu interesse no projeto Conversor de Texto e desejamos uma experiência agradável ao utilizá-lo!
