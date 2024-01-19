@@ -1,4 +1,4 @@
-# PROJETO-TEXTO-UPPER
+# TEXTO UPPER
 🐱‍👤USE O JAVASCRIPT PARA TRANSFORMAR SEU TEXTO EM UPPER.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
