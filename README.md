@@ -4,7 +4,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
 [![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) <br>
 
-<img src="https://ouch-cdn2.icons8.com/ARZ-aatZYjcr-8M6f6k52IcRpklZsFmEuibiWtetI_w/rs:fit:256:256/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMTU2/LzczNjdmMjgyLTgw/ZGUtNDUyNy04YThj/LTRmMmFiNTNkNTI0/Zi5zdmc.png" align="center" width="250"> <br>
+<img src="FOTO.png" align="center" width="400"> <br>
 
 ## 🎏DESCRIÇÃO:
 Bem-vindo ao projeto "Conversor de Texto"! Este repositório contém uma implementação simples de um conversor de texto em HTML, CSS e JavaScript. O projeto permite que os usuários convertam o texto digitado para letras maiúsculas.
