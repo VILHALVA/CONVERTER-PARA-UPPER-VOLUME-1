@@ -1,4 +1,4 @@
-# TEXTO UPPER
+# CONVERTER PARA UPPER VOLUME 1
 🐱‍👤USE O JAVASCRIPT PARA TRANSFORMAR SEU TEXTO EM UPPER, LOWER OU MISTO.
 
 <img src="FOTO_P.png" align="center" width="500"> <br>
@@ -17,19 +17,19 @@ O objetivo deste projeto é oferecer uma ferramenta prática para converter text
 * Clone o repositório para o seu sistema local:
 
 ```bash
-git clone https://github.com/VILHALVA/TEXTO-UPPER.git
+git clone https://github.com/VILHALVA/CONVERTER-PARA-UPPER-VOLUME-1.git
 ```
 
 * Navegue até o diretório do projeto.
 
 ```bash
-cd TEXTO-UPPER
+cd CONVERTER-PARA-UPPER-VOLUME-1
 ```
 
 * Descompacte o arquivo ZIP (se você baixou manualmente):
 
 ```bash
-unzip TEXTO-UPPER.zip
+unzip CONVERTER-PARA-UPPER-VOLUME-1.zip
 ```
 * Abra o arquivo `CODIGO.html` em seu navegador de preferência.
 
