@@ -1,7 +1,7 @@
 # CONVERTER PARA UPPER VOLUME 1
 🐱‍👤USE O JAVASCRIPT PARA TRANSFORMAR SEU TEXTO EM UPPER, LOWER OU MISTO.
 
-<img src="FOTO.png" align="center" width="500"> <br>
+<img src="FOTO_M.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 O objetivo deste projeto é oferecer uma ferramenta prática para converter texto em letras maiúsculas, minusculas ou misturado. Aqui estão as principais funcionalidades implementadas:
