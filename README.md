@@ -13,31 +13,11 @@ O objetivo deste projeto é oferecer uma ferramenta prática para converter text
 - **Exibição do texto convertido**: O texto convertido em letras maiúsculas é exibido em uma área específica abaixo da caixa de texto.
 - **Cópia do texto convertido**: O botão "Copiar Texto" copia o texto convertido para a área de transferência, permitindo que os usuários o cole em outro lugar.
 
-## COMO USAR?
-* Clone o repositório para o seu sistema local:
-
-```bash
-git clone https://github.com/VILHALVA/CONVERTER-PARA-UPPER-VOLUME-1.git
-```
-
-* Navegue até o diretório do projeto.
-
-```bash
-cd CONVERTER-PARA-UPPER-VOLUME-1
-```
-
-* Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip CONVERTER-PARA-UPPER-VOLUME-1.zip
-```
-* Abra o arquivo `CODIGO.html` em seu navegador de preferência.
-
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
-* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
-* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+* [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
